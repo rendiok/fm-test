@@ -4,7 +4,7 @@ repo: fm-test # The name of this repository
 
 sites:
   - name: API
-    url: https://api.forcemanager.com
+    url: https://api.forcemanager.net/healthcheck
   - name: APP
     url: https://app.forcemanager.net
   - name: BE-PRO
