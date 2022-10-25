@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   cname: status.isaacliz.it
   theme: light
-  baseUrl: /fm-test
+  #baseUrl: /fm-test
   name: ForceManager Status
   logoUrl: https://www.forcemanager.com/wp-content/uploads/positive.svg
   introTitle: "Status of ForceManager Services"
