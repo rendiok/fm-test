@@ -16,7 +16,6 @@ status-website:
   # cname: demo.upptime.js.org
   theme: ocean
   baseUrl: /fm-test
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ForceManager Status
   logoUrl: https://www.forcemanager.com/wp-content/uploads/positive.svg
   introTitle: "Status of ForceManager Services"
