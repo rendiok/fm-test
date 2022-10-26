@@ -4,11 +4,11 @@ repo: fm-test # The name of this repository
 
 sites:
   - name: API
-    url: https://api.forcemanager.net/healthcheck
+    url: $URL_API
   - name: APP
-    url: https://app.forcemanager.net
-  - name: BE-PRO
-    url: https://be-pro.forcemanager.net/healthcheck.ashx
+    url: $URL_APP
+  - name: BACKEND
+    url: $URL_BACKEND
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
