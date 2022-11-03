@@ -18,6 +18,7 @@ status-website:
   theme: light
   name: ForceManager Status
   logoUrl: https://www.forcemanager.com/wp-content/uploads/positive.svg
+  faviconSvg: https://www.forcemanager.com/wp-content/themes/forcemanager/images/favicon.svg  
   introTitle: "Status of ForceManager Services"
   navbar:
     - title: Status
