@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "52.48%",
+    "uptime": "52.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.89%",
+    "uptimeYear": "54.16%",
     "time": 1905,
-    "timeDay": 2285,
-    "timeWeek": 1922,
-    "timeMonth": 2201,
-    "timeYear": 1837,
+    "timeDay": 2276,
+    "timeWeek": 2014,
+    "timeMonth": 2202,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2023-09-23": 16,
       "2023-07-02": 17,
@@ -185,8 +185,7 @@
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
-      "2022-12-13": 1440,
-      "2022-12-12": 1440
+      "2022-12-13": 1440
     }
   },
   {
@@ -201,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 118,
-    "timeWeek": 258,
-    "timeMonth": 190,
-    "timeYear": 356,
+    "timeDay": 36,
+    "timeWeek": 250,
+    "timeMonth": 189,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -219,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 626,
-    "timeWeek": 606,
-    "timeMonth": 591,
-    "timeYear": 679,
+    "timeDay": 767,
+    "timeWeek": 647,
+    "timeMonth": 598,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   }
 ]
